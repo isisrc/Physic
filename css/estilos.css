@@ -1,0 +1,39 @@
+body {
+    background: #D8BFD8;
+    background-size: auto 100vh;
+    font-family: Arial, cursive;
+    height: 100vh
+   }
+  
+  .menu {
+    background-color: #C0C0C0   
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+   list-style: none;
+  }
+  
+  a{
+    color:  MediumOrchid;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline
+  }
+  
+  .site-title{
+    color: black;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color:black;
+    font-style: italic;
+    text-align: center;
+  }
